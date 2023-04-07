@@ -7,7 +7,7 @@
 [![Cathage](https://img.shields.io/badge/Cathage-no-red)](https://img.shields.io/badge/Cathage-no-red)
 [![Manually](https://img.shields.io/badge/Manual_Import-yes-green)](https://img.shields.io/badge/Manually_Added-sure-green)
 
-[![CodeCoverage](https://img.shields.io/badge/Code%20Coverage-100%25-green)](https://img.shields.io/badge/Code%20Coverage-100%25-green)
+[![CodeCoverage](https://img.shields.io/badge/Code%20Coverage-94.2%25-green)](https://img.shields.io/badge/Code%20Coverage-94.2%25-green)
 [![License](https://img.shields.io/badge/license-mit-blue.svg)](https://github.com/ChristianFox/JustTime/blob/master/LICENSE)
 [![Contribution](https://img.shields.io/badge/Contributions-Welcome-blue)](https://github.com/ChristianFox/JustTime/labels/contribute)
 [![First Timers Friendly](https://img.shields.io/badge/First_Timers-Welcome-blue)](https://github.com/ChristianFox/JustTime/labels/contribute)
