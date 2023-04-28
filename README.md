@@ -49,11 +49,11 @@ The library consists of three main types: Time, TimeRange and Duration.
 - Duration conforms to Equatable, Comparable, Codable and CustomStringConvertible
 - Swift Package Manager support
 
-## Tests
+## 🧪 Tests
 
 The library is almost fully tested with 94.2% code coverage
 
-## Installation
+## 💻 Installation
 
 ### Swift Package Manager
 To add JustTime to your project using Swift Package Manager, add the following dependency in your Package.swift file:
@@ -74,7 +74,7 @@ targets: [
 ]
 ```
 
-## Usage
+## 🛠️ Usage
 
 ### Time
 
@@ -186,7 +186,11 @@ let b = Duration(hours: 10, minutes: 10, seconds: 10)
 let c = b - a // 90:20:10
 ```
 
-## Contributing
+## 🐕‍🦺 Support
+
+Please [open an issue](https://github.com/ChristianFox/JustTime/issues/new) for support.
+
+## 👷‍♂️ Contributing
 
 Pull requests are welcome. I welcome developers of all skill levels to help improve the library, fix bugs, or add new features. 
 
@@ -194,10 +198,8 @@ For major changes, please open an issue first to discuss what you would like to 
 
 Before submitting a pull request, please ensure that your code adheres to the existing code style and conventions, and that all tests pass. Additionally, if you're adding new functionality, please make sure to include unit tests to verify the behavior.
 
-If you have any questions or need assistance, feel free to open an issue, and I'll do my best to help you out. 
+If you have any questions or need assistance, feel free to [open an issue](https://github.com/ChristianFox/JustTime/issues/new), and I'll do my best to help you out. 
 
-## License
+## 🪪 Licence
 
-JustTime is released under the MIT License.
-
-
+JustTime is available under the MIT license. See the LICENSE file for more info.
